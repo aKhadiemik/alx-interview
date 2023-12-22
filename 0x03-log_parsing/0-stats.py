@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 """
-Module reads script from stdin and computes metrics 
+Module reads script from stdin and computes metrics
 """
 
 import sys
