@@ -1,6 +1,7 @@
 #!/usr/bin/python3
 """ Module finds primes from a given set of numbers"""
 
+
 def isWinner(x, nums):
     """function that checks for the winner"""
     if not nums or x < 1:
